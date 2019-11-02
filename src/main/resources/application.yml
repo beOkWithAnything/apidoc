@@ -1,0 +1,8 @@
+
+spring:
+  # 必须开启
+  freemarker:
+    suffix: .ftl
+
+api:
+  projectName: apidoc_api文档
